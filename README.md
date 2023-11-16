@@ -1,5 +1,5 @@
 ![LogoCASI](https://github.com/CasiUfrn/gestao/assets/133038706/08d71fc4-923b-4c69-b073-8c73c5e37caa)
-# Repositorio de conteúdo academico 
+# Repositorio de conteúdo acadêmico 
 # CURSO: BACHARELADO EM SISTEMAS DE INFORMAÇÃO/CERES - CAICÓ 
 
 # 1º SEMESTRE
