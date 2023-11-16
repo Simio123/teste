@@ -6,11 +6,11 @@
 
 ## DISCIPLINA: INTRODUÇÃO À INFORMÁTICA
 ### Descrição da disciplina:
-#### Nome do conteúdo:
+- #### Nome do conteúdo:
 ##### link ou pasta
-#### Nome do conteúdo:
+- #### Nome do conteúdo:
 ##### link ou pasta
-#### Nome do conteúdo:
+- #### Nome do conteúdo:
 ##### link ou pasta
 
 ## DISCIPLINA: ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
