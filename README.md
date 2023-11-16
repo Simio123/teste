@@ -7,7 +7,7 @@
 ## DISCIPLINA: INTRODUÇÃO À INFORMÁTICA
 ### Descrição da disciplina:
 - #### Nome do conteúdo:
-* ##### link ou pasta
+    ##### link ou pasta
 - #### Nome do conteúdo:
 ##### link ou pasta
 - #### Nome do conteúdo:
