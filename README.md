@@ -5,12 +5,13 @@
 # 1º SEMESTRE
 
 ## DISCIPLINA: INTRODUÇÃO À INFORMÁTICA
-### Nome do conteúdo:
-#### link ou pasta
-### Nome do conteúdo:
-#### link ou pasta
-### Nome do conteúdo:
-#### link ou pasta
+### Descrição da disciplina:
+#### Nome do conteúdo:
+##### link ou pasta
+#### Nome do conteúdo:
+##### link ou pasta
+#### Nome do conteúdo:
+##### link ou pasta
 
 ## DISCIPLINA: ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
 ### Nome do conteúdo:
