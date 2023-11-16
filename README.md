@@ -1,18 +1,9 @@
 
 # Repositorio de conteúdo academico
 
+# 1º SEMESTRE
 
-# 1º Semestre
-
-## Disciplina: INTRODUÇÃO À INFORMÁTICA
-### Conteúdo: Nome do conteúdo
-#### link ou pasta
-### Conteúdo: Nome do conteúdo
-#### link ou pasta
-### Conteúdo: Nome do conteúdo
-#### link ou pasta
-
-## Disciplina: ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
+## DISCIPLINA: INTRODUÇÃO À INFORMÁTICA
 ### Nome do conteúdo:
 #### link ou pasta
 ### Nome do conteúdo:
@@ -20,7 +11,7 @@
 ### Nome do conteúdo:
 #### link ou pasta
 
-## Disciplina: LÓGICA
+## DISCIPLINA: ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
 ### Nome do conteúdo:
 #### link ou pasta
 ### Nome do conteúdo:
@@ -28,7 +19,7 @@
 ### Nome do conteúdo:
 #### link ou pasta
 
-## Disciplina: TEORIA GERAL DA ADMINISTRAÇÃO
+## DISCIPLINA: LÓGICA
 ### Nome do conteúdo:
 #### link ou pasta
 ### Nome do conteúdo:
@@ -36,7 +27,7 @@
 ### Nome do conteúdo:
 #### link ou pasta
 
-## Disciplina: FUNDAMENTOS DE MATEMÁTICA
+## DISCIPLINA: TEORIA GERAL DA ADMINISTRAÇÃO
 ### Nome do conteúdo:
 #### link ou pasta
 ### Nome do conteúdo:
@@ -44,11 +35,23 @@
 ### Nome do conteúdo:
 #### link ou pasta
 
-# Semestre: 5
-## Disciplina: FUNDAMENTOS DE MATEMÁTICA
-### Conteudo:
+## DISCIPLINA: FUNDAMENTOS DE MATEMÁTICA
+### Nome do conteúdo:
+#### link ou pasta
+### Nome do conteúdo:
+#### link ou pasta
+### Nome do conteúdo:
+#### link ou pasta
 
 
+# 2º SEMESTRE
+
+### Nome do conteúdo:
+#### link ou pasta
+### Nome do conteúdo:
+#### link ou pasta
+### Nome do conteúdo:
+#### link ou pasta
 
 # referencias
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
